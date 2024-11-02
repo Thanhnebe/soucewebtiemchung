@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1d6866e4-31f4-46cd-8216-552b84457db2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/web/entity/VaccineSchedule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/web/entity/VaccineSchedule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/web/repository/CustomerScheduleRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/web/repository/CustomerScheduleRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/web/service/VaccineScheduleService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/web/service/VaccineScheduleService.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2n7TXdHOngEVBydU6UDDTP51EpJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Spring Boot.VaxmsApplication.executor&quot;: &quot;Run&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;develop-phuochc&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Administrator/Desktop/vaxms-full/VaxMS_FA24.SE34/server/src/main/java/com/web/api&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Facets&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;cf1e8c14e54505f60aa10ceb8d5d8ab3&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\vaxms-full\VaxMS_FA24.SE34\server\src\main\java\com\web\api" />
+      <recent name="C:\Users\Administrator\Desktop\vaxms-full\VaxMS_FA24.SE34\server\src\main\java\com\web" />
+      <recent name="C:\Users\Administrator\Desktop\vaxms-full\VaxMS_FA24.SE34\server\src\main\java\com\web\config" />
+      <recent name="C:\Users\Administrator\Desktop\vaxms-full\VaxMS_FA24.SE34\server" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.VaxmsApplication">
+    <configuration name="VaccineScheduleTimeService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.web.service.VaccineScheduleTimeService" />
+      <module name="server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.web.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VaxmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.web.VaxmsApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.VaxmsApplication" />
+        <item itemvalue="Application.VaccineScheduleTimeService" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d6866e4-31f4-46cd-8216-552b84457db2" name="Changes" comment="" />
+      <created>1728323155121</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728323155121</updated>
+      <workItem from="1728323156154" duration="624000" />
+      <workItem from="1728324227862" duration="797000" />
+      <workItem from="1728325040053" duration="316000" />
+      <workItem from="1728434085239" duration="768000" />
+      <workItem from="1728436678926" duration="162000" />
+      <workItem from="1728543793835" duration="17106000" />
+      <workItem from="1728722598263" duration="300000" />
+      <workItem from="1729051388219" duration="788000" />
+      <workItem from="1729064567674" duration="8356000" />
+      <workItem from="1729172980268" duration="1236000" />
+      <workItem from="1729260770204" duration="1215000" />
+      <workItem from="1729268672308" duration="3255000" />
+      <workItem from="1729767460138" duration="601000" />
+      <workItem from="1730083299882" duration="2666000" />
+      <workItem from="1730088364730" duration="1484000" />
+      <workItem from="1730099569675" duration="12578000" />
+      <workItem from="1730159222101" duration="7743000" />
+      <workItem from="1730187996753" duration="10445000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
